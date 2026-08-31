@@ -72,17 +72,27 @@ Clinical screening must be integrated with direct educational outreach. Nutritio
 
 ## 8. Actionable Recommendations
 •	1. Establish Proxy-Driven Screening: Mandate automatic pediatric testing for any child whose mother presents with positive anemia findings during routine clinical consultations.
+
 •	2. Geographically Reallocate Assets: Shift diagnostic funding, mobile vans, and supply chains directly toward rural clinics to address the 60.98% vulnerable rural majority.
+
 •	3. Deploy Wealth-Indexed Filters: Utilize existing regional economic and poverty data to bypass universal screening costs, instantly focusing testing resources on the lowest two wealth percentiles.
+
 •	4. Unify Family Care Checkups: Co-locate maternal postnatal checkups with early childhood nutrition interventions, creating a single unified family screening window.
+
 ## 9.  Expected Impact
 •	Resource Optimization: Drastically reduces the cost of universal screening by filtering focus to high-risk groups. 
+
 •	Proactive Intervention: Catching the 3.9K "Moderate" cases before they degrade into severe, resource-heavy clinical emergencies. 
+
 •	Data-Driven Partnerships: Equips local health departments and NGOs with visual, geographic, and socioeconomic evidence to secure targeted funding. 
+
 ## 10. Challenges & Solutions
-•	Incomplete Regional Data: Originally, 25,742 records lacked essential hemoglobin results. Solution: Purged incomplete records to base findings strictly on 10,062 fully validated data points, ensuring statistical integrity. 
-•	Default Tool Limitations: Power Query was initially profiling only a fraction of the dataset. Solution: Switched to "Column Profiling Based on Entire Dataset" to accurately inspect and clean the full data catalog
+•	Incomplete Regional Data: Originally, 25,742 records lacked essential hemoglobin results. Solution: Purged incomplete records to base findings strictly on 10,062 fully validated data points, ensuring statistical integrity.
+
+•	Default Tool Limitations: Power Query was initially profiling only a fraction of the dataset. Solution: Switched to "Column Profiling Based on Entire Dataset" to accurately inspect and clean the full data catalog.
+
 ## 11. Conclusion
 This case study proves that we do not need expensive, universal testing programs to make an impact on public health. By smartly repurposing routine demographic indicators—maternal health, education, wealth, and location—we can build an automated, data-driven prioritization framework. This ensures that in resource-limited settings, every screening dollar spent is directed precisely to the children who need it most. 
+
 
 ## THANK YOU
