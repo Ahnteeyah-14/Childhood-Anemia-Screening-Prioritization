@@ -91,7 +91,7 @@ Clinical screening must be integrated with direct educational outreach. Nutritio
 
 •	Default Tool Limitations: Power Query was initially profiling only a fraction of the dataset. Solution: Switched to "Column Profiling Based on Entire Dataset" to accurately inspect and clean the full data catalog.
 
-## 11. Conclusion
+# 11. Conclusion
 This case study proves that we do not need expensive, universal testing programs to make an impact on public health. By smartly repurposing routine demographic indicators—maternal health, education, wealth, and location—we can build an automated, data-driven prioritization framework. This ensures that in resource-limited settings, every screening dollar spent is directed precisely to the children who need it most. 
 
 
